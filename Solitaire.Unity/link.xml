@@ -1,0 +1,4 @@
+<linker>
+	<assembly fullname="Solitaire.Database" preserve="all"/>
+	<assembly fullname="Solitaire" preserve="all"/>
+</linker>

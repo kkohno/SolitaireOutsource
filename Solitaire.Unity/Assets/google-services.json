@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "592152561635",
+    "project_id": "solitaire-8a93c",
+    "storage_bucket": "solitaire-8a93c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:592152561635:android:bc2a2e23160e5c0d8642d6",
+        "android_client_info": {
+          "package_name": "com.companyname.BMLite"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0bHw80Pr26UASO92oWEDth_U4iOh-TTY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,641 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Доперевод localization file. -->
+<!-- Generated: Thu Nov 05 2015 21:31:20 GMT+0800 (HKT) -->
+<texts>
+<language id="0" name="English" nativeName="English" caption="English" flag="flag_gb">
+ 	<phrase name="score" text="Score"/> 	
+	<phrase name="time" text="Time"/>
+	<phrase name="themes" text="Themes"/>	
+	<phrase name="restart" text="New game"/>
+	<phrase name="repeat" text="Repeat"/>
+	<phrase name="quit" text="Exit app"/>
+	<phrase name="statistics" text="Statistics"/>
+	<phrase name="settings" text="Settings"/>
+	<phrase name="deckType" text="Draw"/>
+	<phrase name="deckOneOnOne" text="1 card"/>
+	<phrase name="deckOneOnThree" text="1 card"/>
+	<phrase name="threeVisible" text="(visible 3)"/>	
+	<phrase name="deckThreeOnThree" text="3 cards"/>
+	<phrase name="deckWin" text="Windows style"/>
+	<phrase name="language" text="Language"/>
+	<phrase name="timer" text="Timer"/>
+	<phrase name="soundEffects" text="Sound effects"/>
+	<phrase name="screenRotation" text="Screen rotation"/>	
+	<phrase name="tapMove" text="Move by tapping"/>
+	<phrase name="hints" text="Hints"/>
+	<phrase name="finalAnim" text="Final animation"/>
+	<phrase name="bgAnim" text="Background animation"/>
+	<phrase name="close" text="Close"/>
+	<phrase name="ok" text="Yes"/>
+	<phrase name="off" text="Off"/>
+	<phrase name="on" text="On"/>
+	<phrase name="restartQuestion" text="Do you really want to start a new game? An abandoned game counts as defeat in statistics."/>
+	<phrase name="exitQuestion" text="Do you really want to quit the game?"/>	
+	<phrase name="deckChangedQuestion" text="Do you want to start a game with new settings?"/>
+	<phrase name="flushQuestion" text="Do you really want to dump statistics?"/>
+	<phrase name="flushStats" text="Reset"/>	
+	<phrase name="winCount" text="Number of victories"/>
+	<phrase name="winPrc" text="Percentage of victories"/>
+	<phrase name="avgScore" text="Average score"/>
+	<phrase name="gameCount" text="Number of games"/>	
+	<phrase name="gamesToday" text="Games today"/>
+	<phrase name="winsToday" text="Victories today"/>
+	<phrase name="threeDeckFlips" text="Maximum 3 decks"/>	
+	<phrase name="rulesType" text="Rules"/>	
+	<phrase name="rulesStandart" text="As a default"/>
+	<phrase name="rulesWindows" text="Windows style"/>
+	<phrase name="winText" text="Congratulations!"/>
+	<phrase name="loseText" text="You lose"/>	
+	<phrase name="autoPlay" text="Collect"/>
+	<phrase name="decks" text="Decks"/>
+	<phrase name="backs" text="Back of a card"/>
+	<phrase name="themeSettings" text="Design choice"/>
+	<phrase name="apply" text="Apply"/>
+	<phrase name="customBack" text="Create the back of a card"/>
+	<phrase name="replace" text="Replace"/>
+	<phrase name="replaceQuestion" text="Do you want to replace the current back of a card?"/>
+</language>
+<language id="1" name="Russian" nativeName="Russian"  caption="Русский" flag="flag_ru">
+	<phrase name="score" text="Счет"/> 	
+	<phrase name="time" text="Время"/>
+	<phrase name="themes" text="Темы оформления"/>	
+	<phrase name="restart" text="Новая игра"/>
+	<phrase name="repeat" text="Повторить игру"/>
+	<phrase name="quit" text="Выход"/>
+	<phrase name="statistics" text="Статистика"/>
+	<phrase name="settings" text="Настройки"/>
+	<phrase name="deckType" text="Сдавать"/>
+	<phrase name="deckOneOnOne" text="По 1 карте"/>
+	<phrase name="deckOneOnThree" text="По 1 карте"/>
+	<phrase name="threeVisible" text="(видно 3)"/>
+	<phrase name="deckThreeOnThree" text="По 3 карты"/>
+	<phrase name="deckWin" text="Стиль Windows"/>
+	<phrase name="language" text="Выбор языка"/>
+	<phrase name="timer" text="Таймер"/>
+	<phrase name="soundEffects" text="Звуковые эффекты"/>
+	<phrase name="screenRotation" text="Поворот экрана"/>
+	<phrase name="tapMove" text="Ход касанием"/>
+	<phrase name="hints" text="Подсказки"/>
+	<phrase name="finalAnim" text="Финальная анимация"/>
+	<phrase name="bgAnim" text="Фоновая анимация"/>
+	<phrase name="close" text="Отмена"/>
+	<phrase name="ok" text="Да"/>
+	<phrase name="off" text="Выкл"/>
+	<phrase name="on" text="Вкл"/>
+	<phrase name="restartQuestion" text="Вы уверены что хотите начать новую игру? Текущая будет засчитана как поражение."/>
+	<phrase name="exitQuestion" text="Вы уверены что хотите выйти?"/>	
+	<phrase name="deckChangedQuestion" text="Начать игру с новыми настройками?"/>
+	<phrase name="flushQuestion" text="Вы уверены что хотите сбросить статистику?"/>
+	<phrase name="flushStats" text="Сброс"/>	
+	<phrase name="winCount" text="Количество побед"/>
+	<phrase name="winPrc" text="Процент побед"/>
+	<phrase name="avgScore" text="Средний счет"/>
+	<phrase name="gameCount" text="Количество игр"/>
+	<phrase name="gamesToday" text="Игр сегодня"/>
+	<phrase name="winsToday" text="Побед сегодня"/>	
+	<phrase name="threeDeckFlips" text="Макс. 3 колоды"/>	
+	<phrase name="rulesType" text="Вариант правил"/>	
+	<phrase name="rulesStandart" text="По умолчанию"/>
+	<phrase name="rulesWindows" text="Стиль Windows"/>
+	<phrase name="winText" text="Вы победили!"/>
+	<phrase name="loseText" text="Вы проиграли"/>
+	<phrase name="autoPlay" text="Собрать"/>
+	<phrase name="decks" text="Колоды"/>
+	<phrase name="backs" text="Рубашки"/>
+	<phrase name="themeSettings" text="Выбор оформления"/>
+	<phrase name="apply" text="Применить"/>
+	<phrase name="replace" text="Заменить"/>
+	<phrase name="replaceQuestion" text="Заменить текущую рубашку?"/>
+	<phrase name="customBack" text="Создай свою рубашку"/>		
+</language>
+<language id="2" name="French" nativeName="French" caption="Francais" flag="flag_fr">
+	<phrase name="score" text="Score"/> 	
+	<phrase name="time" text="Temps"/>
+	<phrase name="themes" text="Sujets"/>	
+	<phrase name="restart" text="Nouveau jeu"/>
+	<phrase name="repeat" text="Réessayer"/>
+	<phrase name="quit" text="La sortie"/>
+	<phrase name="statistics" text="Statistiques"/>
+	<phrase name="settings" text="Paramètres"/>
+	<phrase name="deckType" text="Donner"/>
+	<phrase name="deckOneOnOne" text="1 carte"/>
+	<phrase name="deckOneOnThree" text="1 carte"/>
+	<phrase name="threeVisible" text="(mais 3 sont visibles)"/>
+	<phrase name="deckThreeOnThree" text="3 cartes"/>
+	<phrase name="deckWin" text="Style Windows"/>
+	<phrase name="language" text="Sélection des langues"/>
+	<phrase name="timer" text="Minuterie"/>
+	<phrase name="soundEffects" text="Effets sonores"/>
+	<phrase name="screenRotation" text="Rotation d'écran"/>
+	<phrase name="tapMove" text="Progression tactile"/>
+	<phrase name="hints" text="Bulles d’aide"/>
+	<phrase name="finalAnim" text="Animation finale"/>
+	<phrase name="bgAnim" text="Animation de fond"/>
+	<phrase name="close" text="Annuler"/>
+	<phrase name="ok" text="Oui"/>
+	<phrase name="off" text="Inactif"/>
+	<phrase name="on" text="Actif"/>
+	<phrase name="restartQuestion" text="Êtes-vous sûr de vouloir commencer un nouveau jeu ? Le début d'un nouveau jeu est compté comme une perte dans les statistiques."/>
+	<phrase name="exitQuestion" text="Êtes-vous sûr de vouloir quitter ?"/>	
+	<phrase name="deckChangedQuestion" text="Commencer le jeu avec les nouveaux réglages ?"/>
+	<phrase name="flushQuestion" text="Vous êtes assurés que voulez enlever la statistique ?"/>
+	<phrase name="flushStats" text="Réinitialisation"/>	
+	<phrase name="winCount" text="Nombre de victoires"/>
+	<phrase name="winPrc" text="Pourcentage de victoires"/>
+	<phrase name="avgScore" text="Score moyen"/>
+	<phrase name="gameCount" text="Nombre de jeux"/>
+	<phrase name="gamesToday" text="Des jeux aujourd'hui"/>
+	<phrase name="winsToday" text="De victoires aujourd'hui"/>	
+	<phrase name="threeDeckFlips" text="Max. 3 jeux de cartes"/>	
+	<phrase name="rulesType" text="Règles"/>	
+	<phrase name="rulesStandart" text="De défaut"/>
+	<phrase name="rulesWindows" text="Style Windows"/>
+	<phrase name="winText" text="Félicitations !"/>
+	<phrase name="loseText" text="Tu as perdu"/>
+	<phrase name="autoPlay" text="Recueillir"/>
+	<phrase name="decks" text="Les jeux de cartes"/>
+	<phrase name="backs" text="Le dos de la carte"/>
+	<phrase name="themeSettings" text="Choix de design"/>
+	<phrase name="apply" text="Appliquer"/>
+	<phrase name="customBack" text="Créez le dos d'une carte"/>
+	<phrase name="replace" text="Remplacer"/>
+	<phrase name="replaceQuestion" text="Voulez-vous remplacer le dos d'une carte?"/>
+</language>
+<language id="3" name="German" nativeName="German"  caption="Deutsch" flag="flag_de">
+	<phrase name="score" text="Punktzahl"/> 	
+	<phrase name="time" text="Zeit"/>
+	<phrase name="themes" text="Designs"/>	
+	<phrase name="restart" text="Neues Spiel"/>
+	<phrase name="repeat" text="Wiederholen"/>
+	<phrase name="quit" text="Ausgang"/>
+	<phrase name="statistics" text="Statistik"/>
+	<phrase name="settings" text="Einstellungen"/>
+	<phrase name="deckType" text="Ziehen"/>
+	<phrase name="deckOneOnOne" text="1 Karte"/>
+	<phrase name="deckOneOnThree" text="1 Karte"/>
+	<phrase name="threeVisible" text="(3 doch sichtbar)"/>
+	<phrase name="deckThreeOnThree" text="3 Karten"/>
+	<phrase name="deckWin" text="Windows-Stil"/>
+	<phrase name="language" text="Sprache"/>
+	<phrase name="timer" text="Timer"/>
+	<phrase name="soundEffects" text="Sound-Effekte"/>
+	<phrase name="screenRotation" text="Schirmfolge"/>
+	<phrase name="tapMove" text="Antippen um zu bewegen"/>
+	<phrase name="hints" text="Tipps"/>
+	<phrase name="finalAnim" text="Schlußanimation"/>
+	<phrase name="bgAnim" text="Hintergrund-\nAnimation"/>
+	<phrase name="close" text="Abbrechen"/>
+	<phrase name="ok" text="Ja"/>
+	<phrase name="off" text="Aus."/>
+	<phrase name="on" text="Ein."/>
+	<phrase name="restartQuestion" text="Möchten Sie wirklich ein neues Spiel beginnen? Das Spiel, dass Sie aufgeben, wird als ein verlorenes Spiel gelten."/>
+	<phrase name="exitQuestion" text="Möchten Sie wirklich das Spiel aufgeben?"/>	
+	<phrase name="deckChangedQuestion" text="Das Spiel mit den neuen Einstellungen zu beginnen?"/>
+	<phrase name="flushQuestion" text="Sie sind überzeugt dass Sie die Statistik zu stürzen wollen?"/>
+	<phrase name="flushStats" text="Rücksetzen"/>	
+	<phrase name="winCount" text="Anzahl der Siege"/>
+	<phrase name="winPrc" text="Prozent der Siege"/>
+	<phrase name="avgScore" text="Durchschnittliche Punktzahl"/>
+	<phrase name="gameCount" text="Anzahl der Spiele"/>
+	<phrase name="gamesToday" text="Insgesamt Spiele"/>
+	<phrase name="winsToday" text="Heute gewonnen"/>	
+	<phrase name="threeDeckFlips" text="Max. 3 Spiele"/>	
+	<phrase name="rulesType" text="Regeln"/>	
+	<phrase name="rulesStandart" text="Standardmäßig"/>
+	<phrase name="rulesWindows" text="Windows-Stil"/>
+	<phrase name="winText" text="Glückwünsche!"/>
+	<phrase name="loseText" text="Du hast verloren"/>
+	<phrase name="autoPlay" text="Zu sammeln"/>
+	<phrase name="decks" text="Die Karten"/>
+	<phrase name="backs" text="Der Rücken der Karte"/>
+	<phrase name="themeSettings" text="Designwahl"/>
+	<phrase name="apply" text="Anzuwenden"/>
+	<phrase name="customBack" text="Schaffen Sie der Rücken der Karte"/>
+	<phrase name="replace" text="Ersetzen"/>
+	<phrase name="replaceQuestion" text="Wollen Sie der Rücken der Karte ersetzen?"/>
+</language>
+<language id="4" name="Spanish" nativeName="Spanish"  caption="Espanol" flag="flag_es">
+	<phrase name="score" text="Puntuación"/> 	
+	<phrase name="time" text="Tiempo"/>
+	<phrase name="themes" text="Temas"/>	
+	<phrase name="restart" text="Nueva partida"/>
+	<phrase name="repeat" text="Repetir"/>
+	<phrase name="quit" text="La salida"/>
+	<phrase name="statistics" text="Estadísticas"/>
+	<phrase name="settings" text="Opciones"/>
+	<phrase name="deckType" text="Sacar"/>
+	<phrase name="deckOneOnOne" text="1 carta"/>
+	<phrase name="deckOneOnThree" text="1 carta"/>
+	<phrase name="threeVisible" text="(3 a la vista)"/>
+	<phrase name="deckThreeOnThree" text="3 cartas"/>
+	<phrase name="deckWin" text="Estilo Windows"/>
+	<phrase name="language" text="Selección de idioma"/>
+	<phrase name="timer" text="Temporizador"/>
+	<phrase name="soundEffects" text="Efectos de sonido"/>
+	<phrase name="screenRotation" text="Rotación de la pantalla"/>
+	<phrase name="tapMove" text="Tocar para mover"/>
+	<phrase name="hints" text="Pistas"/>
+	<phrase name="finalAnim" text="Animación final"/>
+	<phrase name="bgAnim" text="Animación de fondo"/>
+	<phrase name="close" text="Cancelar"/>
+	<phrase name="ok" text="Sí"/>
+	<phrase name="off" text="Apagado"/>
+	<phrase name="on" text="Encendido"/>
+	<phrase name="restartQuestion" text="¿Seguro que quiere empezar un juego nuevo? Una partida abandonada cuenta como una derrota."/>
+	<phrase name="exitQuestion" text="¿Seguro que quiere abandonar la partida?"/>	
+	<phrase name="deckChangedQuestion" text="¿Comenzar el juego con los nuevos ajustes?"/>
+	<phrase name="flushQuestion" text="¿Estáis seguros que queréis arrojar la estadística?"/>
+	<phrase name="flushStats" text="Recomponer"/>	
+	<phrase name="winCount" text="Partidas ganadas"/>
+	<phrase name="winPrc" text="Porcentaje de victorias"/>
+	<phrase name="avgScore" text="Puntuación promedia"/>
+	<phrase name="gameCount" text="Partidas jugadas"/>
+	<phrase name="gamesToday" text="Partidas en total"/>
+	<phrase name="winsToday" text="Partidas ganadas por día"/>	
+	<phrase name="threeDeckFlips" text="Max. 3 barajas"/>	
+	<phrase name="rulesType" text="Reglas"/>	
+	<phrase name="rulesStandart" text="Por defecto"/>
+	<phrase name="rulesWindows" text="Estilo Windows"/>
+	<phrase name="winText" text="¡Felicidades!"/>
+	<phrase name="loseText" text="Ha perdido "/>
+	<phrase name="autoPlay" text="Recoger"/>
+	<phrase name="decks" text="Las barajas"/>
+	<phrase name="backs" text="El respaldo de la cartas"/>
+	<phrase name="themeSettings" text="Opciones de diseño"/>
+	<phrase name="apply" text="Aplicar"/>
+	<phrase name="customBack" text="Cree el respaldo de la cartas"/>
+	<phrase name="replace" text="Sustituir"/>
+	<phrase name="replaceQuestion" text="¿Quiere sustituir el respaldo de la cartas?"/>
+</language>
+<language id="5" name="Italian" nativeName="Italian"  caption="Italiano" flag="flag_it">
+	<phrase name="score" text="Conto"/> 	
+	<phrase name="time" text="Ora"/>
+	<phrase name="themes" text="Argomenti"/>	
+	<phrase name="restart" text="Nuovo gioco"/>
+	<phrase name="repeat" text="Ripetere"/>
+	<phrase name="quit" text="Uscita"/>
+	<phrase name="statistics" text="Statistica"/>
+	<phrase name="settings" text="Impostazioni"/>
+	<phrase name="deckType" text="Girare"/>
+	<phrase name="deckOneOnOne" text="1 carta per volta"/>
+	<phrase name="deckOneOnThree" text="1 carta"/>
+	<phrase name="threeVisible" text="(ma si vedono 3)"/>
+	<phrase name="deckThreeOnThree" text="3 carte per volta"/>
+	<phrase name="deckWin" text="Stile Windows"/>
+	<phrase name="language" text="Scegliere la lingua"/>
+	<phrase name="timer" text="Contaore"/>
+	<phrase name="soundEffects" text="Effetti sonori"/>
+	<phrase name="screenRotation" text="Rotazione di schermo"/>
+	<phrase name="tapMove" text="Mossa con il tocco"/>
+	<phrase name="hints" text="Suggerimenti"/>
+	<phrase name="finalAnim" text="Animazione finale"/>
+	<phrase name="bgAnim" text="Animazione di sottosfondo"/>
+	<phrase name="close" text="Cancellare"/>
+	<phrase name="ok" text="Si"/>
+	<phrase name="off" text="Spegnere"/>
+	<phrase name="on" text="Accendere"/>
+	<phrase name="restartQuestion" text="Davvero vuoi cominciare il nuovo gioco? Inizio del nuovo gioco viene visualizzata nella statistica come la perdita."/>
+	<phrase name="exitQuestion" text="Vuoi davvero uscire dal gioco?"/>	
+	<phrase name="deckChangedQuestion" text="Cominciare un gioco con nuove installazioni?"/>
+	<phrase name="flushQuestion" text="È sicuro che vuole buttare la statistica?"/>
+	<phrase name="flushStats" text="Azzerramento"/>	
+	<phrase name="winCount" text="Quantita delle vittorie"/>
+	<phrase name="winPrc" text="Percentuale delle vittorie"/>
+	<phrase name="avgScore" text="Punteggio medio"/>
+	<phrase name="gameCount" text="Quantita delle vittorie"/>
+	<phrase name="gamesToday" text="Totale dei giochi"/>
+	<phrase name="winsToday" text="Vittorie oggi"/>	
+	<phrase name="threeDeckFlips" text="Massimo 3 mazzi di carte"/>	
+	<phrase name="rulesType" text="Regole"/>	
+	<phrase name="rulesStandart" text="Predefinite"/>
+	<phrase name="rulesWindows" text="Stile Windows"/>
+	<phrase name="winText" text="Auguri!"/>
+	<phrase name="loseText" text="Hai perso"/>
+	<phrase name="autoPlay" text="Riunirsi"/>
+	<phrase name="decks" text="Mazzi di carte"/>
+	<phrase name="backs" text="Il dorso della carta"/>
+	<phrase name="themeSettings" text="Scelta di progetto"/>
+	<phrase name="apply" text="Rivolgersi"/>
+	<phrase name="customBack" text="Crei il dorso della carta"/>
+	<phrase name="replace" text="Sostituire"/>
+	<phrase name="replaceQuestion" text="Vuoi sostituire il dorso della carta?"/>
+</language>
+<language id="6" name="Portuguese (Portugal)" nativeName="Portuguese (Portugal)"  caption="Portugues" flag="flag_pt">
+	<phrase name="score" text="Conta"/> 	
+	<phrase name="time" text="Tempo"/>
+	<phrase name="themes" text="Tópicos"/>	
+	<phrase name="restart" text="Novo jogo"/>
+	<phrase name="repeat" text="Repetir"/>
+	<phrase name="quit" text="Saída"/>
+	<phrase name="statistics" text="Estatística"/>
+	<phrase name="settings" text="Сonfigurações"/>
+	<phrase name="deckType" text="Passar"/>
+	<phrase name="deckOneOnOne" text="Pelo 1 cartão"/>
+	<phrase name="deckOneOnThree" text="Pelo 1 cartão"/>
+	<phrase name="threeVisible" text="(mas é visível 3)"/>
+	<phrase name="deckThreeOnThree" text="Pelos 3 cartões"/>
+	<phrase name="deckWin" text="Estilo do Windows"/>
+	<phrase name="language" text="Seleção de idioma"/>
+	<phrase name="timer" text="Ccronômetro"/>
+	<phrase name="soundEffects" text="Efeitos de som"/>
+	<phrase name="screenRotation" text="Rotação de tela"/>
+	<phrase name="tapMove" text="Passo em contato"/>
+	<phrase name="hints" text="Dicas"/>
+	<phrase name="finalAnim" text="Animação final"/>
+	<phrase name="bgAnim" text="Animação de fundo"/>
+	<phrase name="close" text="Cancelamento"/>
+	<phrase name="ok" text="Sim"/>
+	<phrase name="off" text="Desligar"/>
+	<phrase name="on" text="Ligar"/>
+	<phrase name="restartQuestion" text="Realmente quer começar um novo jogo? Iniciao de um novo jogo conta-se nas estatísticas como uma derrota."/>
+	<phrase name="exitQuestion" text="Realmente quer sair do jogo?"/>	
+	<phrase name="deckChangedQuestion" text="Começar um jogo com novas colocações?"/>
+	<phrase name="flushQuestion" text="Está seguro que quer depositar a estatística?"/>
+	<phrase name="flushStats" text="Reinicializar"/>	
+	<phrase name="winCount" text="Número de vitórias"/>
+	<phrase name="winPrc" text="Pporcentagem de vitórias"/>
+	<phrase name="avgScore" text="Conta média"/>
+	<phrase name="gameCount" text="Número de jogos"/>
+	<phrase name="gamesToday" text="Jogos em total"/>
+	<phrase name="winsToday" text="Vitória de hoje"/>	
+	<phrase name="threeDeckFlips" text="Max. 3 baralhos"/>	
+	<phrase name="rulesType" text="Regras"/>	
+	<phrase name="rulesStandart" text="Ppor padrão"/>
+	<phrase name="rulesWindows" text="Estilo do Windows"/>
+	<phrase name="winText" text="Parabéns!"/>
+	<phrase name="loseText" text="Tu perdeste"/>
+	<phrase name="autoPlay" text="Reunir-se"/>
+	<phrase name="decks" text="Baralhos"/>
+	<phrase name="backs" text="As costas do cartão"/>
+	<phrase name="themeSettings" text="Escolha de desenho"/>
+	<phrase name="apply" text="Aplicar-se"/>
+	<phrase name="customBack" text="Crie as costas do cartão"/>
+	<phrase name="replace" text="Substituir"/>
+	<phrase name="replaceQuestion" text="Quer substituir as costas do cartão?"/>
+</language>
+<language id="7" name="Chinese Simplified" nativeName="Chinese Simplified"  caption="中国" flag="flag_cn">
+	<phrase name="score" text="分"/> 	
+	<phrase name="time" text="时间"/>
+	<phrase name="themes" text="主题"/>	
+	<phrase name="restart" text="开始新游戏"/>
+	<phrase name="repeat" text="重复"/>
+	<phrase name="quit" text="退出"/>
+	<phrase name="statistics" text="统计"/>
+	<phrase name="settings" text="调整"/>
+	<phrase name="deckType" text="发"/>
+	<phrase name="deckOneOnOne" text="一张牌"/>
+	<phrase name="deckOneOnThree" text="一张牌"/>
+	<phrase name="threeVisible" text="（但是看到3）"/>
+	<phrase name="deckThreeOnThree" text="三张牌"/>
+	<phrase name="deckWin" text="视窗风格"/>
+	<phrase name="language" text="语言选择"/>
+	<phrase name="timer" text="计时器"/>
+	<phrase name="soundEffects" text="音响"/>
+	<phrase name="screenRotation" text="屏幕旋转"/>
+	<phrase name="tapMove" text="在接触一出"/>
+	<phrase name="hints" text="提示"/>
+	<phrase name="finalAnim" text="结局的动画"/>
+	<phrase name="bgAnim" text="后台动画"/>
+	<phrase name="close" text="取消"/>
+	<phrase name="ok" text="是的"/>
+	<phrase name="off" text="切断"/>
+	<phrase name="on" text="启用"/>
+	<phrase name="restartQuestion" text="新游戏的开始在统计的计数是失利的?"/>
+	<phrase name="exitQuestion" text="您真的想退出游戏?"/>	
+	<phrase name="deckChangedQuestion" text="开始玩游戏新设置?"/>
+	<phrase name="flushQuestion" text="您确定要复位统计呢?"/>
+	<phrase name="flushStats" text="重置"/>	
+	<phrase name="winCount" text="胜数量"/>
+	<phrase name="winPrc" text="胜率"/>
+	<phrase name="avgScore" text="平均分"/>
+	<phrase name="gameCount" text="游戏数量"/>
+	<phrase name="gamesToday" text="总共游戏"/>
+	<phrase name="winsToday" text="今天胜利"/>	
+	<phrase name="threeDeckFlips" text="最大三副纸牌"/>	
+	<phrase name="rulesType" text="规则"/>	
+	<phrase name="rulesStandart" text="缺省"/>
+	<phrase name="rulesWindows" text="视窗风格"/>
+	<phrase name="winText" text="恭喜！"/>
+	<phrase name="loseText" text="你输了"/>
+	<phrase name="autoPlay" text="收集"/>
+	<phrase name="decks" text="甲板地图"/>
+	<phrase name="backs" text="卡的背面"/>
+	<phrase name="themeSettings" text="设计选择"/>
+	<phrase name="apply" text="适用"/>
+	<phrase name="customBack" text="创建卡背面"/>
+	<phrase name="replace" text="取代"/>
+	<phrase name="replaceQuestion" text="是否要替换插卡背面?"/>
+</language>
+<language id="8" name="Japanese" nativeName="Japanese"  caption="日本人" flag="flag_jp">
+	<phrase name="score" text="点数"/> 	
+	<phrase name="time" text="時間"/>
+	<phrase name="themes" text="テーマ"/>	
+	<phrase name="restart" text="新ゲームをスタート"/>
+	<phrase name="repeat" text="反復"/>
+	<phrase name="quit" text="出口"/>
+	<phrase name="statistics" text="統計"/>
+	<phrase name="settings" text="設定"/>
+	<phrase name="deckType" text="カードを出す"/>
+	<phrase name="deckOneOnOne" text="1枚ずつ"/>
+	<phrase name="deckOneOnThree" text="1枚ずつ"/>
+	<phrase name="threeVisible" text="（3枚見える）"/>
+	<phrase name="deckThreeOnThree" text="3枚ずつ"/>
+	<phrase name="deckWin" text="Windowsスタイル"/>
+	<phrase name="language" text="言語"/>
+	<phrase name="timer" text="タイマー"/>
+	<phrase name="soundEffects" text="音響効果"/>
+	<phrase name="screenRotation" text="スクリーンの回転"/>
+	<phrase name="tapMove" text="タッチ作動"/>
+	<phrase name="hints" text="ヒント"/>
+	<phrase name="finalAnim" text="終了アニメーション"/>
+	<phrase name="bgAnim" text="バックアニメーション"/>
+	<phrase name="close" text="キャンセル"/>
+	<phrase name="ok" text="はい"/>
+	<phrase name="off" text="無"/>
+	<phrase name="on" text="有"/>
+	<phrase name="restartQuestion" text="新ゲームをスタートしますか。 新ゲームをした場、 現ゲームは敗北として処理いたします。"/>
+	<phrase name="exitQuestion" text="ゲームを終了しますか。"/>	
+	<phrase name="deckChangedQuestion" text="ゲームを新しいセッティングで始めます？"/>
+	<phrase name="flushQuestion" text="あなたは、 統計を遺棄したいと確信します？"/>
+	<phrase name="flushStats" text="リセット"/>	
+	<phrase name="winCount" text="勝利数"/>
+	<phrase name="winPrc" text="勝利率"/>
+	<phrase name="avgScore" text="平均点数"/>
+	<phrase name="gameCount" text="ゲーム数"/>
+	<phrase name="gamesToday" text="ゲーム数"/>
+	<phrase name="winsToday" text="今日の勝利数"/>	
+	<phrase name="threeDeckFlips" text="最大：３カーデッキ"/>	
+	<phrase name="rulesType" text="ルール"/>	
+	<phrase name="rulesStandart" text="デフォルト"/>
+	<phrase name="rulesWindows" text="Windowsスタイル"/>
+	<phrase name="winText" text="おめでとうございます！"/>
+	<phrase name="loseText" text="あなたは負けました"/>
+	<phrase name="autoPlay" text="集まります"/>
+	<phrase name="decks" text="パック"/>
+	<phrase name="backs" text="カードの裏"/>
+	<phrase name="themeSettings" text="デザイン選択"/>
+	<phrase name="apply" text="あてはまります"/>
+	<phrase name="customBack" text="カードの裏をつくってください"/>
+	<phrase name="replace" text="代わる"/>
+	<phrase name="replaceQuestion" text="あなたは、カードの後ろの部分に代わりたいです？"/>
+</language>
+<language id="9" name="Korean" nativeName="Korean"  caption="한국의" flag="flag_kr">
+	<phrase name="score" text="점수"/> 	
+	<phrase name="time" text="시간"/>
+	<phrase name="themes" text="테마"/>	
+	<phrase name="restart" text="새로운 게임 시작하기"/>
+	<phrase name="repeat" text="다시 시작하기"/>
+	<phrase name="quit" text="종료하십시오"/>
+	<phrase name="statistics" text="기록"/>
+	<phrase name="settings" text="설정"/>
+	<phrase name="deckType" text="카드 돌리기"/>
+	<phrase name="deckOneOnOne" text="1장씩"/>
+	<phrase name="deckOneOnThree" text="1장씩 나누기"/>
+	<phrase name="threeVisible" text="(카드 3장 보이기)"/>
+	<phrase name="deckThreeOnThree" text="3장씩 나누기"/>
+	<phrase name="deckWin" text="윈도우의 스타일"/>
+	<phrase name="language" text="언어 설정하기"/>
+	<phrase name="timer" text="타이머"/>
+	<phrase name="soundEffects" text="음향 효과"/>
+	<phrase name="screenRotation" text="화면 회전시킵니다"/>
+	<phrase name="tapMove" text="터치 리드"/>
+	<phrase name="hints" text="도움"/>
+	<phrase name="finalAnim" text="최종 애니메이션"/>
+	<phrase name="bgAnim" text="배경 애니메이션"/>
+	<phrase name="close" text="취소"/>
+	<phrase name="ok" text="예"/>
+	<phrase name="off" text="끄기"/>
+	<phrase name="on" text="스위치인"/>
+	<phrase name="restartQuestion" text="새 게임을 시작하시겠습니까? 새 게임을 시작하시면 자동으로 패배를 기록합니다."/>
+	<phrase name="exitQuestion" text="정말로 게임을 종료하시겠습니까?"/>	
+	<phrase name="deckChangedQuestion" text="게임을 시작하는 새 설정값으로?"/>
+	<phrase name="flushQuestion" text="통계를 재설정하려면 계속하시겠습니까 것인지?"/>
+	<phrase name="flushStats" text="리셋합니다"/>	
+	<phrase name="winCount" text="승리 개수"/>
+	<phrase name="winPrc" text="승률"/>
+	<phrase name="avgScore" text="게임의 평가점수"/>
+	<phrase name="gameCount" text="게임 개수"/>
+	<phrase name="gamesToday" text="게임 총 개수"/>
+	<phrase name="winsToday" text="오늘 승리"/>	
+	<phrase name="threeDeckFlips" text="최대 카드 3질"/>	
+	<phrase name="rulesType" text="규칙"/>	
+	<phrase name="rulesStandart" text="자동으로"/>
+	<phrase name="rulesWindows" text="윈도우의 스타일"/>
+	<phrase name="winText" text="축하합니다!"/>
+	<phrase name="loseText" text="패배하셨습니다"/>
+	<phrase name="autoPlay" text="어셈블하기"/>
+	<phrase name="decks" text="갑판 카드"/>
+	<phrase name="backs" text="카드 뒷면"/>
+	<phrase name="themeSettings" text="디자인 선택"/>
+	<phrase name="apply" text="적용하십시오"/>
+	<phrase name="customBack" text="카드 뒷면을 만듭니다"/>
+	<phrase name="replace" text="교체하시겠습니까"/>
+	<phrase name="replaceQuestion" text="카드 뒷면에 대체하시겠습니까?"/>
+</language>
+<language id="10" name="Arab" nativeName="Arab"  caption="العربية" flag="flag_arab">
+	<phrase name="score" text="الرصيد"/> 	
+	<phrase name="time" text="الوقت"/>
+	<phrase name="themes" text="المواضيع"/>	
+	<phrase name="restart" text="بدء لعبة جديدة"/>
+	<phrase name="repeat" text="كرر"/>
+	<phrase name="quit" text="خروج"/>
+	<phrase name="statistics" text="إحصائيات"/>
+	<phrase name="settings" text="إعدادات"/>
+	<phrase name="deckType" text="توزيع"/>
+	<phrase name="deckOneOnOne" text="توزيع كرت كرت"/>
+	<phrase name="deckOneOnThree" text="كرت واحد"/>
+	<phrase name="threeVisible" text="(ولكن مرئي 3)"/>
+	<phrase name="deckThreeOnThree" text="نوزيع بثلاث كروت"/>
+	<phrase name="deckWin" text="نمط Windows"/>
+	<phrase name="language" text="اختيار اللغة"/>
+	<phrase name="timer" text="مؤقت"/>
+	<phrase name="soundEffects" text="المؤثرات الصوتية"/>
+	<phrase name="screenRotation" text="تحول شاشة"/>
+	<phrase name="tapMove" text="التقدم مع ملامسة"/>
+	<phrase name="hints" text="نصائح"/>
+	<phrase name="finalAnim" text="الرسوم المتحركة النهائي"/>
+	<phrase name="bgAnim" text="خلفية حيوية"/>
+	<phrase name="close" text="إلغاء"/>
+	<phrase name="ok" text="نعم"/>
+	<phrase name="off" text="مطفي أو مغلق"/>
+	<phrase name="on" text="مفتوح"/>
+	<phrase name="restartQuestion" text="هل تريد حقا بدء لعبة جديدة؟ عند بدء اللعبة من جديد فأن الإحصاء يسجل لك خسارة."/>
+	<phrase name="exitQuestion" text="هل تريد حقا إنهاء اللعبة؟"/>	
+	<phrase name="deckChangedQuestion" text="تبدأ اللعبة مع الأماكن الجديدة؟"/>
+	<phrase name="flushQuestion" text="امتأكدة أنك تريد أن تتخلص من الإحصاءات؟"/>
+	<phrase name="flushStats" text="إلقاء"/>	
+	<phrase name="winCount" text="عدد مرات الفوز"/>
+	<phrase name="winPrc" text="نسبة الفوز"/>
+	<phrase name="avgScore" text="الرصيد المتوسط"/>
+	<phrase name="gameCount" text="عدد مرات اللعب"/>
+	<phrase name="gamesToday" text="عدد مرات اللعب"/>
+	<phrase name="winsToday" text="الفوز اليوم"/>	
+	<phrase name="threeDeckFlips" text="على الاكثر 3 صفوف"/>	
+	<phrase name="rulesType" text="قواعد"/>	
+	<phrase name="rulesStandart" text="تلقائيا"/>
+	<phrase name="rulesWindows" text="نمط Windows"/>
+	<phrase name="winText" text="تهانينا!"/>
+	<phrase name="loseText" text="أنك فقدت"/>
+	<phrase name="autoPlay" text="جمع"/>
+	<phrase name="decks" text="العلب الخرائط"/>
+	<phrase name="backs" text="الجزء الخلفي من البطاقة"/>
+	<phrase name="themeSettings" text="اختيار التصميم"/>
+	<phrase name="apply" text="تطبيق"/>
+	<phrase name="customBack" text="تهيئة الجزء الخلفي من بطاقة"/>
+	<phrase name="replace" text="الاستعاضة عن"/>
+	<phrase name="replaceQuestion" text="هل تريد أن تحل محل الجزء الخلفي من خرائط؟"/>
+</language>
+<language id="11" name="Turkish" nativeName="English" caption="Türkçe" flag="flag_tr">
+    <phrase name="score" text="Skor"/>
+    <phrase name="time" text="Zaman"/>
+    <phrase name="themes" text="Tema"/>
+    <phrase name="restart" text="Yeni Oyun"/>
+    <phrase name="repeat" text="Tekrar"/>
+    <phrase name="quit" text="Çıkış"/>
+    <phrase name="statistics" text="İstatislik"/>
+    <phrase name="settings" text="Ayarlar"/>
+    <phrase name="deckType" text="Kağıt Çekme"/>
+    <phrase name="deckOneOnOne" text="1 Kart"/>
+    <phrase name="deckOneOnThree" text="1 Kart"/>
+    <phrase name="threeVisible" text="(görünebilir 3)"/>
+    <phrase name="deckThreeOnThree" text="3 Kart"/>
+    <phrase name="deckWin" text="Windows Stili"/>
+    <phrase name="language" text="Dil"/>
+    <phrase name="timer" text="Zaman"/>
+    <phrase name="soundEffects" text="Ses Efekti"/>
+    <phrase name="screenRotation" text="Ekran Döndürme"/>
+    <phrase name="tapMove" text="Hafifçe Vurarak Taşı"/>
+    <phrase name="hints" text="İpuçları"/>
+    <phrase name="finalAnim" text="Final Animasyonu"/>
+    <phrase name="bgAnim" text="Arka Plan Animasyonu"/>
+    <phrase name="close" text="Kapat"/>
+    <phrase name="ok" text="Evet"/>
+    <phrase name="off" text="Kapalı"/>
+    <phrase name="on" text="Açık"/>
+    <phrase name="restartQuestion" text="Gerçekten yeni bir oyun başlatmak istiyormusun? Terk edilmiş bir oyun istatistiklerde yenilgi sayılıyor."/>
+    <phrase name="exitQuestion" text="Oyunu gerçekten bırakmak istiyormusun ?"/>
+    <phrase name="deckChangedQuestion" text="Yeni ayarları kullanarak oyuna başlamak istiyormusunuz?"/>
+    <phrase name="flushQuestion" text="İstatistikleri gerçekten sıfırlamak mı istiyorsun?"/>
+    <phrase name="flushStats" text="Sıfırlamak"/>
+    <phrase name="winCount" text="Kazanılan Oyun Sayısı"/>
+    <phrase name="winPrc" text="Kazanma Yüzdesi"/>
+    <phrase name="avgScore" text="Skor Ortalaması"/>
+    <phrase name="gameCount" text="Oynanan Oyun Sayısı"/>
+    <phrase name="gamesToday" text="Bugün Oynanan Oyun Sayısıy"/>
+    <phrase name="winsToday" text="Bugün Kazanılan Oyun Sayısı"/>
+    <phrase name="threeDeckFlips" text="En Fazla 3 Kart"/>
+    <phrase name="rulesType" text="Kurallar"/>
+    <phrase name="rulesStandart" text="Standart Kurallar"/>
+    <phrase name="rulesWindows" text="Windows Kurallar"/>
+    <phrase name="winText" text="Tebrikler Kazandınız!"/>
+    <phrase name="loseText" text="Kaybettiniz"/>
+    <phrase name="autoPlay" text="Toplamak"/>
+    <phrase name="decks" text="Kartın Ön Yüzü"/>
+    <phrase name="backs" text="Kartın Arka Yüzü"/>
+    <phrase name="themeSettings" text="Desen Seçimi"/>
+    <phrase name="apply" text="Uygula"/>
+    <phrase name="customBack" text="Kartın Arka Desenini Oluştur"/>
+    <phrase name="replace" text="Değiştirmek"/>
+    <phrase name="replaceQuestion" text="Kartın arka desenini değiştirmek istiyormusunuz?"/>
+</language>
+</texts>

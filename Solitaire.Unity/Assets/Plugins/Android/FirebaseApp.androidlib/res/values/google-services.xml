@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id">
+  <string name="gcm_defaultSenderId" translatable="false">592152561635</string>
+  <string name="google_storage_bucket" translatable="false">solitaire-8a93c.appspot.com</string>
+  <string name="project_id" translatable="false">solitaire-8a93c</string>
+  <string name="google_api_key" translatable="false">AIzaSyA0bHw80Pr26UASO92oWEDth_U4iOh-TTY</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyA0bHw80Pr26UASO92oWEDth_U4iOh-TTY</string>
+  <string name="google_app_id" translatable="false">1:592152561635:android:bc2a2e23160e5c0d8642d6</string>
+</resources>

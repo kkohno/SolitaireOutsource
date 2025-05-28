@@ -1,0 +1,1355 @@
+fileFormatVersion: 2
+guid: 55b3b06c84acbc74181a9877740476b1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5386882667386721377
+    second: american_deck_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 180
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: american_deck_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 708
+        width: 147
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1645b4cbe3d02ca40800000000000000
+      internalID: 5386882667386721377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: american_deck_1
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 708
+        width: 147
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e3fd5afd6e1cc7419bc74fecd6a8d70
+      internalID: -1046562891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: american_deck_2
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 708
+        width: 147
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36e7f849b36966044b51e63662efd1a8
+      internalID: -1855643138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: american_deck_3
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 708
+        width: 147
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70ea4f1cf92a2964aaa8e87ace8765ae
+      internalID: -1221593686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: american_deck_4
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 708
+        width: 147
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 466f644a2aeace24d9b739844abbeee0
+      internalID: -109594269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: american_deck_5
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 708
+        width: 147
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 971892c4efd667d439738dbdf7723b7c
+      internalID: -5834397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: american_deck_6
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 708
+        width: 147
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d4ce5d88c7d9c246a6c4815098369c1
+      internalID: 425013185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: american_deck_7
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 708
+        width: 147
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 438b7baea116a9d4d8cc7264e12bea20
+      internalID: 2116706225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: american_deck_8
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 708
+        width: 147
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5716092af0c393845bd988d71d915a58
+      internalID: -200928538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: american_deck_9
+      rect:
+        serializedVersion: 2
+        x: 1389
+        y: 708
+        width: 147
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd8eb7b8d2c8de14489f64ac243a576a
+      internalID: 1512065396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: american_deck_10
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 708
+        width: 147
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55cc2ff49c7a0454a82baa0a33e5c97d
+      internalID: -364607175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: american_deck_11
+      rect:
+        serializedVersion: 2
+        x: 1697
+        y: 708
+        width: 147
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f41f5355c845ab42a56e770b8b2e7ed
+      internalID: -1969795372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: american_deck_12
+      rect:
+        serializedVersion: 2
+        x: 1851
+        y: 708
+        width: 147
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b95af34da376f642804909784203018
+      internalID: 108690526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: american_deck_13
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 474
+        width: 147
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7214236ad12579745be9d688bb8ac649
+      internalID: 2016649188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: american_deck_14
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 474
+        width: 147
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1e022872de0a8f4e8bf4b38df80595b
+      internalID: 712688831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: american_deck_15
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 474
+        width: 147
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62656063b4915264ea481c77b55ebe4a
+      internalID: 944408536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: american_deck_16
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 474
+        width: 147
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff295de4b6ebbd84ba5b90361de815f2
+      internalID: 300138022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: american_deck_17
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 474
+        width: 147
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 030d7de6e23f4754daaa84d3f64549ef
+      internalID: 1695978880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: american_deck_18
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 474
+        width: 147
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 770f151380a352548a0ea4bf7e76f9a2
+      internalID: 1217956132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: american_deck_19
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 474
+        width: 147
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c5cf69c84277ab4ba0c328a9899abf0
+      internalID: 1813531890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: american_deck_20
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 474
+        width: 147
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddaab0c858fd9b94bb1b41f0390f45b7
+      internalID: 1822752856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: american_deck_21
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 474
+        width: 147
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f275ad46056610048af091e528a574e0
+      internalID: -527569871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: american_deck_22
+      rect:
+        serializedVersion: 2
+        x: 1389
+        y: 474
+        width: 147
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 306b631e89ae99f47b5345df39e62d1d
+      internalID: -1404805977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: american_deck_23
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 474
+        width: 147
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9741cdb7d4f62544b98e3c2475c58e15
+      internalID: 1024970720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: american_deck_24
+      rect:
+        serializedVersion: 2
+        x: 1697
+        y: 474
+        width: 147
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8e8f5d9d6331e84c9a74598abe19f22
+      internalID: 1101501853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: american_deck_25
+      rect:
+        serializedVersion: 2
+        x: 1851
+        y: 474
+        width: 147
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd6ca50730cd0fe478586c45d3d7654a
+      internalID: 1406014930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: american_deck_26
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 240
+        width: 147
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d49dfc848d712bf41aef1bc154998ce9
+      internalID: 721277289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: american_deck_27
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 240
+        width: 147
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ede237ee94fe04445a3313941435ccc4
+      internalID: -246375185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: american_deck_28
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 240
+        width: 147
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d8f97514840316459b1f5d62eaee7bf
+      internalID: -301979335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: american_deck_29
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 240
+        width: 147
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 379b97b4d2ee5534e91939322c33b440
+      internalID: -1229925762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: american_deck_30
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 240
+        width: 147
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bf71e57fef1d674d938a37469499176
+      internalID: -357594973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: american_deck_31
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 240
+        width: 147
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fffa399f91a4cb04e8522908d89d9f05
+      internalID: -1853685903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: american_deck_32
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 240
+        width: 147
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4de9f98cdcfe65b47825f84fdf0ee822
+      internalID: -373188553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: american_deck_33
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 240
+        width: 147
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b38d7fa082dca554c8cf5fa3f85c802c
+      internalID: -274298316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: american_deck_34
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 240
+        width: 147
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3acfc98910796d4b8beeb558a34e8c5
+      internalID: -1673162180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: american_deck_35
+      rect:
+        serializedVersion: 2
+        x: 1389
+        y: 240
+        width: 147
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60c3f916d09709440a468df603053dee
+      internalID: 1777834283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: american_deck_36
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 240
+        width: 147
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddc2cf9ce6a9ae84f8db5fe44829e51d
+      internalID: 1219255056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: american_deck_37
+      rect:
+        serializedVersion: 2
+        x: 1697
+        y: 240
+        width: 147
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3092ef857254d94f8d813b36a50c6bf
+      internalID: -1542011806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: american_deck_38
+      rect:
+        serializedVersion: 2
+        x: 1851
+        y: 240
+        width: 147
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5a3fd8a284c739479c4d2ebdf7dabd9
+      internalID: -1519353931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: american_deck_39
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 6
+        width: 147
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e1c128421c4d4f4a9dfa985f0c0771a
+      internalID: 92051020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: american_deck_40
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 6
+        width: 147
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3d6deb9dd09a6e47b9d66c6723ca69f
+      internalID: 1786819648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: american_deck_41
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 6
+        width: 147
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d4ec450e558fa42b58fadf647d943b
+      internalID: -1058808250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: american_deck_42
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 6
+        width: 147
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc2e9305a879466419c28a353c523ab1
+      internalID: 1886492381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: american_deck_43
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 6
+        width: 147
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9f8ed4a9fe42e049a7aa2af73586849
+      internalID: -1540065671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: american_deck_44
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 6
+        width: 147
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d925682c6f1d4714ebba88efa6c456d5
+      internalID: -88381517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: american_deck_45
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 6
+        width: 147
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cb11c1bc27590940a9f57c5a4b4ba71
+      internalID: 6213400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: american_deck_46
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 6
+        width: 147
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da61148fe9e9757499134e964041c014
+      internalID: -1604082866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: american_deck_47
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 6
+        width: 147
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0f07333642f8904d8776fe1b6aad6c5
+      internalID: -156457033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: american_deck_48
+      rect:
+        serializedVersion: 2
+        x: 1389
+        y: 6
+        width: 147
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 012f2b0a71c8b1c409702831e3b7b603
+      internalID: 837681457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: american_deck_49
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 6
+        width: 147
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fe82b33d975d174e99a829e50ca3563
+      internalID: -979429207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: american_deck_50
+      rect:
+        serializedVersion: 2
+        x: 1697
+        y: 6
+        width: 147
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7eda4dde40be544c92209bdad89cdb9
+      internalID: 1011591927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: american_deck_51
+      rect:
+        serializedVersion: 2
+        x: 1851
+        y: 6
+        width: 147
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edf7468f5d04a084a8a6b01e598e6836
+      internalID: 185110860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: b09c6a41efe10454288b77c08b4b9b6c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      american_deck_0: 5386882667386721377
+      american_deck_1: -1046562891
+      american_deck_10: -364607175
+      american_deck_11: -1969795372
+      american_deck_12: 108690526
+      american_deck_13: 2016649188
+      american_deck_14: 712688831
+      american_deck_15: 944408536
+      american_deck_16: 300138022
+      american_deck_17: 1695978880
+      american_deck_18: 1217956132
+      american_deck_19: 1813531890
+      american_deck_2: -1855643138
+      american_deck_20: 1822752856
+      american_deck_21: -527569871
+      american_deck_22: -1404805977
+      american_deck_23: 1024970720
+      american_deck_24: 1101501853
+      american_deck_25: 1406014930
+      american_deck_26: 721277289
+      american_deck_27: -246375185
+      american_deck_28: -301979335
+      american_deck_29: -1229925762
+      american_deck_3: -1221593686
+      american_deck_30: -357594973
+      american_deck_31: -1853685903
+      american_deck_32: -373188553
+      american_deck_33: -274298316
+      american_deck_34: -1673162180
+      american_deck_35: 1777834283
+      american_deck_36: 1219255056
+      american_deck_37: -1542011806
+      american_deck_38: -1519353931
+      american_deck_39: 92051020
+      american_deck_4: -109594269
+      american_deck_40: 1786819648
+      american_deck_41: -1058808250
+      american_deck_42: 1886492381
+      american_deck_43: -1540065671
+      american_deck_44: -88381517
+      american_deck_45: 6213400
+      american_deck_46: -1604082866
+      american_deck_47: -156457033
+      american_deck_48: 837681457
+      american_deck_49: -979429207
+      american_deck_5: -5834397
+      american_deck_50: 1011591927
+      american_deck_51: 185110860
+      american_deck_6: 425013185
+      american_deck_7: 2116706225
+      american_deck_8: -200928538
+      american_deck_9: 1512065396
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,11 @@
+{
+  "name": "solitaire.database",
+  "displayName": "Solitaire DataBase",
+  "version": "1.0.0",
+  "description": "Общая часть генераторов и юнити по базам данных",
+  "author": {
+    "name": "Konstantin Kokhno",
+    "email": "kkohno@mail.ru",
+    "url": "https://github.com/kkohno"
+  }
+}
