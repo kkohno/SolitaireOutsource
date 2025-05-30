@@ -1,5 +1,4 @@
 ﻿using System;
-using ui.UIWindowColor;
 using UnityEngine;
 
 namespace Scripts.Library.Extenstions

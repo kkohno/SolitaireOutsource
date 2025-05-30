@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Linq;
-using ui.UIWindowColor.DrowUIAttribute;
+using ui.NewUIWindows.DrowUIAttribute;
+using ui.NewUIWindows.Enum;
 using UnityEditor;
 using UnityEditor.UIElements;
 using UnityEngine;
@@ -14,7 +15,7 @@ namespace Editor
         public override VisualElement CreatePropertyGUI(SerializedProperty property)
         {
             var container = new VisualElement();
-            var attr = attribute as ui.UIWindowColor.DrowUIAttribute.ShowIfEnumAttribute;
+            var attr = attribute as ShowIfEnumAttribute;
             var field = new PropertyField(property);
             field.BindProperty(property);
 
